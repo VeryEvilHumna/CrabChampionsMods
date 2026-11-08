@@ -5,6 +5,14 @@
 Halo/Roboquest/Hunt:Showdown style lowered crosshair. The reticle sits `offset_y` px below center, and
 shots land on it.
 
+### Demo (720p)
+
+https://github.com/user-attachments/assets/12fb0b69-cee4-410b-9a85-52ff0736bdf8
+
+
+
+Demo (4k): [https://youtu.be/5eMQ3wGpy_M](https://youtu.be/5eMQ3wGpy_M)
+
 The game fires along the camera direction (`ECrabShotDirType::CameraDir`), so
 rotating the control rotation or the camera can't separate aim from view. This
 mod leaves the camera alone and shifts the rendered image instead, using
